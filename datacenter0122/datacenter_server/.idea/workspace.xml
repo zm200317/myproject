@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f2ee94-4a84-44a8-b305-84d1d3a64765" name="Default Changelist" comment="v1.0" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k2DQEgf4ialsmXM8LxZKW7WD4x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db/models" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+    <property name="ts.external.directory.path" value="D:\Program Files (x86)\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\VueWorkSpace\datacenter1208\datacenter_server\db\models" />
+      <recent name="D:\VueWorkSpace\datacenter1208\datacenter_server\routes" />
+      <recent name="D:\VueWorkSpace\datacenter1208\datacenter_server\db\tools" />
+      <recent name="D:\VueWorkSpace\data-center1106\datacenter_server 1119\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\VueWorkSpace\datacenter1208\datacenter_server\db\models" />
+      <recent name="D:\VueWorkSpace\datacenter_server\db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mongo.uncompression.js (3)">
+    <configuration name="datacenter_test.js (1)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="datacenter_server" />
+      <setting name="path" value="$PROJECT_DIR$/db/datacenter_test.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uncompression.js (1)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="datacenter_server" />
+      <setting name="path" value="$PROJECT_DIR$/db/tools/uncompression.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uncompression.js (2)" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="datacenter_server" />
+      <setting name="path" value="$PROJECT_DIR$/db/tools/uncompression.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uncompression.js (3)" type="MongoRunConfiguration" factoryName="Mongo">
+      <module name="datacenter_server" />
+      <setting name="path" value="$PROJECT_DIR$/db/tools/uncompression.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uncompression.js" type="MongoRunConfiguration" factoryName="Mongo" temporary="true">
+      <module name="datacenter_server" />
+      <setting name="path" value="$PROJECT_DIR$/db/tools/uncompression.js" />
+      <setting name="shellParams" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mongo.uncompression.js (2)" />
+        <item itemvalue="Mongo.uncompression.js (1)" />
+        <item itemvalue="Mongo.uncompression.js" />
+        <item itemvalue="Mongo.datacenter_test.js (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f2ee94-4a84-44a8-b305-84d1d3a64765" name="Default Changelist" comment="" />
+      <created>1604889774958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604889774958</updated>
+      <workItem from="1604889776310" duration="5204000" />
+      <workItem from="1604913056331" duration="785000" />
+      <workItem from="1604973770523" duration="12690000" />
+      <workItem from="1605056311375" duration="1759000" />
+      <workItem from="1605058289904" duration="11638000" />
+      <workItem from="1605142781385" duration="7000" />
+      <workItem from="1605143783961" duration="4638000" />
+      <workItem from="1605257419473" duration="25000" />
+      <workItem from="1605500690868" duration="691000" />
+      <workItem from="1605573246708" duration="15721000" />
+      <workItem from="1605666450142" duration="11252000" />
+      <workItem from="1605747804218" duration="1284000" />
+      <workItem from="1605749123224" duration="8330000" />
+      <workItem from="1605760136761" duration="840000" />
+      <workItem from="1605768036120" duration="1410000" />
+      <workItem from="1605769664274" duration="98000" />
+      <workItem from="1605769961540" duration="1032000" />
+      <workItem from="1605771204685" duration="3697000" />
+      <workItem from="1605776446266" duration="393000" />
+      <workItem from="1605777289390" duration="622000" />
+      <workItem from="1605833870092" duration="144000" />
+      <workItem from="1605834320386" duration="8384000" />
+      <workItem from="1606101679172" duration="869000" />
+      <workItem from="1606179317343" duration="1237000" />
+      <workItem from="1606266764067" duration="13314000" />
+      <workItem from="1606352020424" duration="24512000" />
+      <workItem from="1606438494583" duration="20062000" />
+      <workItem from="1606782844373" duration="9836000" />
+      <workItem from="1606876817297" duration="3000" />
+      <workItem from="1607302305618" duration="6430000" />
+      <workItem from="1607329021099" duration="2921000" />
+      <workItem from="1607389262291" duration="8108000" />
+      <workItem from="1607414930419" duration="5459000" />
+      <workItem from="1607473600466" duration="5707000" />
+      <workItem from="1607915106226" duration="3886000" />
+      <workItem from="1607920943288" duration="10710000" />
+      <workItem from="1607992956723" duration="1374000" />
+      <workItem from="1607994361575" duration="9395000" />
+      <workItem from="1608080530997" duration="13476000" />
+      <workItem from="1608167604639" duration="17886000" />
+      <workItem from="1608252235705" duration="4355000" />
+      <workItem from="1608519564889" duration="2092000" />
+      <workItem from="1608530482713" duration="2812000" />
+      <workItem from="1608536087819" duration="3249000" />
+      <workItem from="1608598545244" duration="378000" />
+      <workItem from="1608599164025" duration="6044000" />
+      <workItem from="1608623474405" duration="6733000" />
+      <workItem from="1608684083662" duration="4066000" />
+      <workItem from="1608688805608" duration="8087000" />
+      <workItem from="1608776293410" duration="8902000" />
+      <workItem from="1608865578288" duration="2668000" />
+      <workItem from="1609032576197" duration="1225000" />
+      <workItem from="1609136395633" duration="5817000" />
+      <workItem from="1609203599684" duration="2981000" />
+      <workItem from="1609375487417" duration="2100000" />
+      <workItem from="1609726977201" duration="3018000" />
+      <workItem from="1609807718123" duration="15979000" />
+      <workItem from="1609915760389" duration="6973000" />
+      <workItem from="1609980262535" duration="10386000" />
+      <workItem from="1610003928222" duration="2568000" />
+      <workItem from="1610066509710" duration="5980000" />
+      <workItem from="1610326076829" duration="1229000" />
+      <workItem from="1610416926163" duration="3224000" />
+      <workItem from="1610511556594" duration="1489000" />
+      <workItem from="1610606106062" duration="1889000" />
+      <workItem from="1610674981156" duration="7594000" />
+      <workItem from="1610931170928" duration="764000" />
+      <workItem from="1610933028075" duration="2465000" />
+      <workItem from="1611023201861" duration="4362000" />
+      <workItem from="1611212231251" duration="1215000" />
+      <workItem from="1611276897079" duration="2819000" />
+      <workItem from="1611282162588" duration="4130000" />
+      <workItem from="1611299599182" duration="635000" />
+      <workItem from="1611536281411" duration="617000" />
+      <workItem from="1611540264875" duration="3878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+</project>

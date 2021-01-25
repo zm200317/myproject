@@ -1,0 +1,123 @@
+.ziti {
+  color: #008bcc;
+  font-weight: bold;
+}
+
+
+
+.afdafa {
+  cursor: pointer;
+  height: 30px;
+  font-size: 14px;
+  padding-left: 30px;
+  padding-top: 8px;
+}
+
+.afdafa:hover {
+  background-color: #a0d2e4;
+}
+
+.dazi {
+  font-weight: bold;
+  color: #008bcc;
+}
+
+.san {
+  font-size: 13px;
+}
+
+.si {
+  font-size: 14px;
+}
+
+
+div.footer {
+  background: #017fba;
+  color: #FFF;
+  height: 200px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+div.footer h4 {
+  font-weight: bold;
+}
+
+div.footer a {
+  color: #FFF;
+}
+
+div.footer>div>div.xia {
+  line-height: 180%;
+}
+
+
+div.back-c {
+  background: #eeeeee;
+}
+
+
+div .shuxian {
+  border-left: 1px solid #999;
+}
+
+
+.zuosuojin {
+  padding-left: 10px;
+}
+
+.hangju {
+  line-height: 30px;
+}
+
+.jiacu {
+  font-weight: bold;
+}
+
+div.testline a {
+  color: #333;
+}
+
+div.testline a:hover {
+  color: #009cdd;
+  text-decoration: none;
+}
+
+.xiao {
+  font-size: 13px;
+  padding-left: 20px;
+}
+
+.hongse {
+  color: red;
+}
+
+.action-label {
+  padding-bottom: 5px;
+}
+
+.talent-header {
+  font-weight: bold;
+}
+
+.talent-content {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.talent-title {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 7px;
+  line-height: 19px;
+  margin: 10px 0px 10px 0px;
+}
+
+.talent-title i {
+  font-style: normal;
+  font-size: 16px;
+  font-family: 'Microsoft YaHei', 'hei', 'tahoma';
+  line-height: 22px;
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+}
