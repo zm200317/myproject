@@ -89,9 +89,6 @@ export default {
   },
   data: function () {
     return {
-      path: '/1610696891526.jpg',
-      srcUrl: require('D:\\VueWorkSpace\\datacenter0107\\datacenter_server\\routes\\upload\\1610692789446.jpg'),
-      // srcUrl: require(`${this.$store.state.userInfo.headerImg}`),
       navList: [
         { name: '/dataresource', navItem: '数据资源' },
         { name: '/search', navItem: '高级搜索' },
@@ -102,9 +99,6 @@ export default {
     }
   },
   mounted () {
-    console.log(require('D:\\VueWorkSpace\\datacenter0107\\datacenter_server\\routes\\upload\\1610692789446.jpg'))
-    console.log('headerImg=', this.$store.state.userInfo.headerImg)
-    // console.log('dsffs=', require(`${this.$store.state.userInfo.headerImg}`))
   },
   methods: {
     logout () {
